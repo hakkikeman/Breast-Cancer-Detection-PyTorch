@@ -30,14 +30,11 @@ Both models were trained on an NVIDIA T4 GPU (Google Colab).
   The Custom CNN adapted more quickly to the specific tissue details within the limited epoch count (5 epochs).
 
 ## How to Run
-
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/hakkikeman/Breast-Cancer-Detection-PyTorch.git](https://github.com/hakkikeman/Breast-Cancer-Detection-PyTorch.git)
+   git clone https://github.com/hakkikeman/Breast-Cancer-Detection-PyTorch.git
    cd Breast-Cancer-Detection-PyTorch
    ```
-
-
 2. Download the dataset from Kaggle and update the data path in the notebook.
 3. Install the required dependencies:
 
