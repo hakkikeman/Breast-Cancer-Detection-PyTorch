@@ -11,7 +11,7 @@ This project focuses on the binary classification of Invasive Ductal Carcinoma (
 
 ## Dataset
 
-The dataset used is the "Breast Histopathology Images" from Kaggle. A balanced subset of 10,000 RGB image patches ($50\times50$ pixels) was utilized. The data was split into 70% Training, 15% Validation, and 15% Testing. *(Note: The dataset is not included in this repository due to size constraints. You can download it directly from Kaggle).*
+The dataset used is the "Breast Histopathology Images" from Kaggle. A balanced subset of 10,000 RGB image patches ($50\times50$ pixels) was utilized. The data was split into 70% Training, 15% Validation, and 15% Testing. *(Note: The dataset is not included in this repository due to size constraints. You can download the [Breast Histopathology Images Dataset](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) directly from Kaggle).*
 
 ## Methodology & Models
 
