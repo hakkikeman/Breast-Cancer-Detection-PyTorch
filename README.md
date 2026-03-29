@@ -31,7 +31,17 @@ Both models were trained on an NVIDIA T4 GPU (Google Colab).
 
 ## How to Run
 
-1. Clone this repository.
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/hakkikeman/Breast-Cancer-Detection-PyTorch.git](https://github.com/hakkikeman/Breast-Cancer-Detection-PyTorch.git)
+   cd Breast-Cancer-Detection-PyTorch
+   ```
+
+
 2. Download the dataset from Kaggle and update the data path in the notebook.
-3. Install the required dependencies (`torch`, `torchvision`, `pandas`, `scikit-learn`, `matplotlib`).
-4. Run all cells in `breast_cancer_detection_cnn_vs_vgg16.ipynb`.
+3. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Open and run all cells in `breast_cancer_classification_cnn_vs_vgg16.ipynb`.
